@@ -12,10 +12,20 @@ public with sharing class testingggg {
 
     }
 
+    public festure22()
+    {
+    }
+  public newmethodadded()
+  {
+    
+  }
+
+
     public static void festure1()
     {
     }
     public devlopcode() {
+
 
     }
 }
