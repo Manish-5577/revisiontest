@@ -11,8 +11,21 @@ public with sharing class testingggg {
     public testin434343() {
 
     }
+
     public festure22()
     {
-        
+    }
+  public newmethodadded()
+  {
+    
+  }
+
+
+    public static void festure1()
+    {
+    }
+    public devlopcode() {
+
+
     }
 }
