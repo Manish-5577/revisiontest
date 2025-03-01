@@ -19,6 +19,10 @@ public with sharing class testingggg {
   {
     
   }
+  public newmethod7667added()
+  {
+    
+  }
 
 
     public static void festure1()
